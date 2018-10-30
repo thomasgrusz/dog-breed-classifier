@@ -2,3 +2,4 @@ dogImages/
 lfw/
 requirements.txt
 .DS_Score
+.ipynb_checkpoints/
